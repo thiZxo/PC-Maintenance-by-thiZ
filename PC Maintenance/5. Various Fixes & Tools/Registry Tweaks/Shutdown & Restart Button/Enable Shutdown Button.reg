@@ -1,0 +1,5 @@
+Windows Registry Editor Version 5.00
+
+; Enables Shutdown, Restart and Other Buttons to the Start Menu (Corrupt Start Menu) 
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\Explorer]
+"NoClose"=dword:0
